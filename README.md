@@ -13,3 +13,5 @@ please make sure it can visit local js files.
 Although there are some issue to use Kotlin to work with Angularjs, but it works and I'm feeling good.
 I think it will be better and better in the near future.
 
+I'm new to Kotlin, the code is not very good. Please help me to improve it, thank you ~
+
